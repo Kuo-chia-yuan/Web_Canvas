@@ -2,8 +2,7 @@
 
 ## 簡介
 運用HTML及JavaScritp實作網路版小畫家
-![image](https://user-images.githubusercontent.com/56677419/205442665-2fd53a39-f3b2-4395-9493-8c094373ecad.png)
-
+![image](https://user-images.githubusercontent.com/56677419/205442768-5570f711-3f01-42fb-9c52-ceb08efa0e7d.png)
 
 ## 功能介紹
 1. brush：畫筆
